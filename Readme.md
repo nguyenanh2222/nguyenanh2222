@@ -1,1 +1,1 @@
-![alt](Nguyen_Viet_Anh_Python_Developer.pdf)
+[embed](Nguyen_Viet_Anh_Python_Developer.pdf)[/embed]
